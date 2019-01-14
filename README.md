@@ -1,5 +1,5 @@
 # evenOdd
-[![Build Status](http://9178ff36.eu.ngrok.io/buildStatus/icon?job=JenkinsEssentialTraining/n-09-shared-library)](https://9178ff36.eu.ngrok.io/job/libraries/)
+[![Build Status](http://9178ff36.eu.ngrok.io/buildStatus/icon?job=JenkinsEssentialTraining/n-09-shared-library)](https://9178ff36.eu.ngrok.io/job/JenkinsEssentialTraining/n-09-shared-library/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
